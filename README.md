@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinmang&hide_langs_below=0&theme=default&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 <!--
