@@ -35,7 +35,7 @@ def main():
 
     insert_info = "<!---blog_start--->\n ## 最近更新的文章 \n > 更新时间：" \
     + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') \
-    + insert_info + "\n<!---blog_end--->"
+    + "\n" + insert_info + "\n<!---blog_end--->"
 
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
