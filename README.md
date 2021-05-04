@@ -30,8 +30,21 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 
 <!---blog_start--->
+## 最近更新的文章
 
-<!---blog_end--->
+[Hello World](https://xingmang.net/hello-world/)
+
+[Python3 股票爬虫并绘制K线图](https://xingmang.net/python3-stock-crawler/)
+
+[Hugo文章加密](https://xingmang.net/hugo-encryptor/)
+
+[人工智能之聊天机器人](https://xingmang.net/tensorflow-chat-robot/)
+
+[Docker(五)之数据卷](https://xingmang.net/docker-volume-guide/)
+
+[Docker(四)之应用栈](https://xingmang.net/docker-application-stack/)
+
+<!---end--->
 
 ⬇️**点击下方图片留言**⬇️
 
