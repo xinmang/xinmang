@@ -30,13 +30,14 @@ def get_link_info(feed_url, num):
     return result
     
 def main():
-    v2fy_info =  get_link_info("https://xingmang.net/posts/index.xml", 3)
-    insert_info = v2fy_info
+    insert_info =  get_link_info("https://xingmang.net/posts/index.xml", 5)
+    
     # 替换 ---start--- 到 ---end--- 之间的内容
     insert_info = "---start---\n\n## " + "更新时间:"+ \
      datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + \
          " | 本部分通过Github Actions抓取RSS自动更新" +"\n" + insert_info + "\n---end---"
     print(insert_info)
+    
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
