@@ -4,11 +4,14 @@ Version: 2.0
 Autor: xinmang
 Date: 2021-05-04 19:47:34
 LastEditors: xinmang
-LastEditTime: 2021-05-04 21:38:43
+LastEditTime: 2021-05-04 22:43:35
 '''
 import feedparser
 import os
 import re
+import time
+import pytz
+from datetime import datetime
 
 def get_link_info(feed_url, num):
     result = ""
@@ -29,8 +32,10 @@ def get_link_info(feed_url, num):
 def main():
 
     insert_info =  get_link_info("https://xingmang.net/posts/index.xml", 6)
-    
-    insert_info = "<!---blog_start--->\n## " + "最近更新的文章" +"\n" + insert_info + "\n<!---end--->"
+
+    insert_info = "<!---blog_start--->\n ## 最近更新的文章 \n > 更新时间：" 
+    + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+    + insert_info + "\n<!---blog_end--->"
 
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
