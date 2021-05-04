@@ -57,41 +57,6 @@
 
 [![](https://chat.getloli.com/room/@xinmang/svg?width=600&height=280&limit=20&theme=light&title=xinmang@github:%20~&fontSize=13)](https://chat.getloli.com/room/@xinmang?title=JAD%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
-```text
-Vue.js     🕓 11h31m ███████████████████▋░░░░░░░ 72.8%
-HTML       🕓 1h57m  ███▎░░░░░░░░░░░░░░░░░░░░░░░ 12.4%
-JavaScript 🕓 1h13m  ██░░░░░░░░░░░░░░░░░░░░░░░░░  7.7%
-JSON       🕓 45m    █▎░░░░░░░░░░░░░░░░░░░░░░░░░  4.8%
-Stylus     🕓 21m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░  2.2%
-```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
-<!-- waka-box end -->
-
-[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
-
-</td>
-<td valign="top" width="50%">
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
-```text
-🚫 啊哦，最近好像没有玩过游戏呢
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/journey-ad/steam-box)
-
-</td>
-</tr>
-</table>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinmang&hide_langs_below=0&theme=default&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
