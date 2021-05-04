@@ -4,7 +4,7 @@
  * @Autor: xinmang
  * @Date: 2021-05-04 19:46:06
  * @LastEditors: xinmang
- * @LastEditTime: 2021-05-04 21:45:42
+ * @LastEditTime: 2021-05-04 21:48:21
 -->
 <p>
   <img src="https://count.getloli.com/get/@xinmang?theme=gelbooru">
@@ -29,26 +29,7 @@
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 
-<<<<<<< HEAD
 <!---blog_start--->
-## 最近更新的文章
-=======
----start---
-
-## 更新时间:2021-05-04 21:44:56 | 本部分通过Github Actions抓取RSS自动更新
->>>>>>> ab9b42bccbe8e9dfed60ea6e2565d359cb89b378
-
-[Hello World](https://xingmang.net/hello-world/)
-
-[Python3 股票爬虫并绘制K线图](https://xingmang.net/python3-stock-crawler/)
-
-[Hugo文章加密](https://xingmang.net/hugo-encryptor/)
-
-[人工智能之聊天机器人](https://xingmang.net/tensorflow-chat-robot/)
-
-[Docker(五)之数据卷](https://xingmang.net/docker-volume-guide/)
-
-[Docker(四)之应用栈](https://xingmang.net/docker-application-stack/)
 
 <!---blog_end--->
 
