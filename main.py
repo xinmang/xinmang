@@ -31,7 +31,7 @@ def get_link_info(feed_url, num):
     
 def main():
 
-    insert_info =  get_link_info("https://xingmang.net/posts/index.xml", 6)
+    insert_info =  get_link_info("http://xingmang.net/posts/index.xml", 6)
 
     insert_info = "<!---blog_start--->\n ## 最近更新的文章 \n > 更新时间：" \
     + datetime.fromtimestamp(int(time.time()), pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') \
