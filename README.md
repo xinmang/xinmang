@@ -31,6 +31,18 @@
 
 <!---blog_start--->
  ## 最近更新的文章 
- > 更新时间：2024-07-26 17:33:33
+ > 更新时间：2024-07-26 18:11:00
+
+[Hello World](https://xingmang.net/hello-world/)
+
+[Python3 股票爬虫并绘制K线图](https://xingmang.net/python3-stock-crawler/)
+
+[Hugo文章加密](https://xingmang.net/hugo-encryptor/)
+
+[人工智能之聊天机器人](https://xingmang.net/tensorflow-chat-robot/)
+
+[Docker(五)之数据卷](https://xingmang.net/docker-volume-guide/)
+
+[Docker(四)之应用栈](https://xingmang.net/docker-application-stack/)
 
 <!---blog_end--->
